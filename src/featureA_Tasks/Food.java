@@ -1,4 +1,4 @@
-package gitPractice_day04;
+package featureA_Tasks;
 
 public class Food {
 
