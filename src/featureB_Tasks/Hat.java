@@ -10,6 +10,9 @@ public class Hat {
 
         System.out.println("class updated");
 
+        System.out.println("-----------------------");
+
+        System.out.println("more updates");
 
 
     }
