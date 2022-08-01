@@ -8,9 +8,13 @@ public class Store {
 
         System.out.println("Hayırlı işler kardeş");
 
+        System.out.println("We are making money");
 
+        System.out.println("Works goes well");
 
+        System.out.println("Store is about the close");
 
+        System.out.println("today we have done so many things");
 
 
 
