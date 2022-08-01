@@ -6,6 +6,10 @@ public class Hat {
 
         System.out.println("Hat created");
 
+        System.out.println("New lines added");
+
+        System.out.println("class updated");
+
 
 
     }
